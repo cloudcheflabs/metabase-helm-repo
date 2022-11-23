@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  dataroastermetabase:
+  - apiVersion: v2
+    appVersion: v0.44.3
+    created: "2022-11-23T22:18:38.968620415Z"
+    description: dataroaster metabase.
+    digest: cc20e3f9dd07f29305fb75b456a534d5b70842a7e915019554219a4bdc62a57f
+    name: dataroastermetabase
+    urls:
+    - dataroastermetabase-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-11-23T22:18:38.968151907Z"
