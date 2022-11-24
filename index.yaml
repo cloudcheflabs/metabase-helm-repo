@@ -3,11 +3,11 @@ entries:
   dataroastermetabase:
   - apiVersion: v2
     appVersion: v0.44.3
-    created: "2022-11-23T22:18:38.968620415Z"
+    created: "2022-11-24T08:37:53.12018907Z"
     description: dataroaster metabase.
-    digest: cc20e3f9dd07f29305fb75b456a534d5b70842a7e915019554219a4bdc62a57f
+    digest: ed1f8e0d2884d37c2938dad1cec53b04b828ee4eb2ad013ece74c7e66975c3a0
     name: dataroastermetabase
     urls:
     - dataroastermetabase-1.0.0.tgz
     version: 1.0.0
-generated: "2022-11-23T22:18:38.968151907Z"
+generated: "2022-11-24T08:37:53.119706667Z"
