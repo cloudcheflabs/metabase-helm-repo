@@ -1,0 +1,31 @@
+apiVersion: v1
+entries:
+  dataroastermetabase:
+  - apiVersion: v2
+    appVersion: v0.44.3
+    created: "2023-03-14T13:16:50.84347293Z"
+    description: dataroaster metabase.
+    digest: 06258a3020007f21710f74414e3f62dd60461348c8aaf407c7c65b9bdc36a59f
+    name: dataroastermetabase
+    urls:
+    - dataroastermetabase-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v2
+    appVersion: v0.44.3
+    created: "2023-03-14T13:16:50.843100585Z"
+    description: dataroaster metabase.
+    digest: a45056049bcc8d794e0c9313bf2afdd54725006b3dec5eebbf8abd2be174f1e9
+    name: dataroastermetabase
+    urls:
+    - dataroastermetabase-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
+    appVersion: v0.44.3
+    created: "2023-03-14T13:16:50.842808783Z"
+    description: dataroaster metabase.
+    digest: 98271bdb8801de8c82395a90db0aa951c3fd7dfcd5d8295c79f90289763e3a10
+    name: dataroastermetabase
+    urls:
+    - dataroastermetabase-1.0.0.tgz
+    version: 1.0.0
+generated: "2023-03-14T13:16:50.842386443Z"
